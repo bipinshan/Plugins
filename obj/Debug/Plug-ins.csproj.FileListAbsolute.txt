@@ -1,0 +1,7 @@
+E:\CRM\CRM SDK 365 Latest\SDK\SampleCode\CS\Plug-ins\bin\Debug\SamplePlugins.dll
+E:\CRM\CRM SDK 365 Latest\SDK\SampleCode\CS\Plug-ins\bin\Debug\SamplePlugins.pdb
+E:\CRM\CRM SDK 365 Latest\SDK\SampleCode\CS\Plug-ins\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+E:\CRM\CRM SDK 365 Latest\SDK\SampleCode\CS\Plug-ins\bin\Debug\Microsoft.IdentityModel.dll
+E:\CRM\CRM SDK 365 Latest\SDK\SampleCode\CS\Plug-ins\bin\Debug\Microsoft.Xrm.Sdk.dll
+E:\CRM\CRM SDK 365 Latest\SDK\SampleCode\CS\Plug-ins\obj\Debug\SamplePlugins.dll
+E:\CRM\CRM SDK 365 Latest\SDK\SampleCode\CS\Plug-ins\obj\Debug\SamplePlugins.pdb
